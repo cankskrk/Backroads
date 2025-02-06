@@ -2,7 +2,9 @@ const About = () => {
   return (
     <section className="section" id="about">
       <div className="section-title">
-        <h2>about <span>us</span></h2>
+        <h2>
+          about <span>us</span>
+        </h2>
       </div>
 
       <div className="section-center about-center">
@@ -25,11 +27,13 @@ const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" className="btn">read more</a>
+          <a href="#" className="btn">
+            read more
+          </a>
         </article>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;

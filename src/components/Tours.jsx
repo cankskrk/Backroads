@@ -2,7 +2,9 @@ const Tours = () => {
   return (
     <section className="section" id="tours">
       <div className="section-title">
-        <h2>featured <span>tours</span></h2>
+        <h2>
+          featured <span>tours</span>
+        </h2>
       </div>
 
       <div className="section-center featured-center">
@@ -22,7 +24,10 @@ const Tours = () => {
             </p>
             <div className="tour-footer">
               <p>
-                <span><i className="fas fa-map"></i></span> china
+                <span>
+                  <i className="fas fa-map"></i>
+                </span>{' '}
+                china
               </p>
               <p>6 days</p>
               <p>from $2100</p>
@@ -44,7 +49,10 @@ const Tours = () => {
             </p>
             <div className="tour-footer">
               <p>
-                <span><i className="fas fa-map"></i></span> indonesia
+                <span>
+                  <i className="fas fa-map"></i>
+                </span>{' '}
+                indonesia
               </p>
               <p>11 days</p>
               <p>from $1400</p>
@@ -66,7 +74,10 @@ const Tours = () => {
             </p>
             <div className="tour-footer">
               <p>
-                <span><i className="fas fa-map"></i></span> hong kong
+                <span>
+                  <i className="fas fa-map"></i>
+                </span>{' '}
+                hong kong
               </p>
               <p>8 days</p>
               <p>from $5000</p>
@@ -88,7 +99,10 @@ const Tours = () => {
             </p>
             <div className="tour-footer">
               <p>
-                <span><i className="fas fa-map"></i></span> kenya
+                <span>
+                  <i className="fas fa-map"></i>
+                </span>{' '}
+                kenya
               </p>
               <p>20 days</p>
               <p>from $3300</p>
@@ -97,7 +111,7 @@ const Tours = () => {
         </article>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Tours
+export default Tours;

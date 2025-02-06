@@ -546,10 +546,10 @@ Navbar
   }
 
   .nav-link {
-    margin-right: 0.7rem;
+    margin: 0 1rem;
   }
   .nav-icon {
-    margin-right: 0.7rem;
+    margin: 0 1rem;
     color: var(--clr-primary-5);
     font-size: 1.2rem;
     transition: var(--transition);
