@@ -466,6 +466,12 @@ Navbar
 .nav-icons {
   display: none;
 }
+
+.nav-icons-style {
+  color: #88ebf2;
+  margin: 0 1rem;
+}
+
 .nav-center {
   width: 90vw;
   max-width: 1170px;
