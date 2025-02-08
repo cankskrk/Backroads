@@ -36,13 +36,13 @@ export const services = [
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, voluptatem.',
   },
   {
-    id: 1,
+    id: 2,
     icon: 'fa-solid fa-tree',
     title: 'endless hiking',
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. In, at.',
   },
   {
-    id: 1,
+    id: 3,
     icon: 'fa-solid fa-socks',
     title: 'amazing comfort',
     text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit, quibusdam!',
